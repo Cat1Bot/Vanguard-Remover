@@ -28,7 +28,7 @@ XMLHttpRequest.prototype.open = function(_, url) {
                     const customMessage = {
                         createdAt: "",
                         heading: "Vanguard Errors Disabled",
-                        message: "You will not see VAN error popups. Do NOT try to play without vanguard - it could lead to permanent ban or kick from match.",
+                        message: "Do NOT try to play without vanguard - you will get kicked from the match or in some cases, your account may be permanently banned.",
                         severity: "error",
                         updatedAt: ""
                     };
