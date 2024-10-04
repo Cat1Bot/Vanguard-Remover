@@ -1,4 +1,4 @@
-# Vanguard-Remover
+# Van Error Remover
 Removes VAN errors from League Client. This is a javascript plugin that disables client side vanguard enforcement. No you cannot play without vanguard using this, you will either get kicked from the match or in some cases have your account permanetly banned (source: https://www.reddit.com/r/riotgames/comments/1f1z3ca/comment/lk3bqxd).
 
 Note: If you want to launch the client without vanguard installed, create a shortcut for riotclientservices.exe and add arg: `--disable-patching` OR `--allow-multiple-clients`. Alternatively, use LeagueNoVgk. (https://github.com/User344/LeagueNoVGK)
