@@ -7,3 +7,6 @@ Note: If you want to launch the client without vanguard installed, create a shor
 
 # How to install
 First make sure you have Pengu Loader installed. Pengu loader is a javascript plugin loader the the League Client frontend, think of it like BetterDiscord or Vencord. After installing Pengu Loader, open the app (you may need to accept UAC prompt) then go the Plugins tab and click "Open folder", drag and drop/paste **van-remover.js** in there. To initialize the plugin, you can either restart the client or refresh the client by pressing Crtl+r.
+
+# Friendly reminder
+Vanguard is the worst that ever happened to League, its spyware, known to brick PCs, huge security risk, and causes isssues that never existed beforehand (like overreach and false positives. ![image](https://github.com/user-attachments/assets/cba8e72d-0130-4aea-b8e7-1bd8009ae12c)
