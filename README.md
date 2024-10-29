@@ -38,7 +38,7 @@ Vanguard has been highly controversial due to several issues:
 - **Impact on performance**: Some players report that Vanguard can slow down their systems and affect game performance.
 - **Community feedback**: The gaming community has expressed significant dissatisfaction with Vanguard, leading to debates on its necessity and implementation.
 
-Using this plugin will not get you banned as long as you're only using the client itself and not trying to get into game. *However, if you insist on getting some ranked matches in, you are playing with fire. If you're concerned about the risks posed by Vanguard, this plugin is for you. Just keep this in mind if you use it on your *main account*.
+Using this plugin will not get you banned as long as you're only using the client itself and not trying to get into game. However, if you insist on getting some ranked matches in, **you are playing with fire**. If you're concerned about the risks posed by Vanguard, this plugin is for you. Just keep this in mind if you use it on your *main account*.
 
 ![Image](https://github.com/user-attachments/assets/cba8e72d-0130-4aea-b8e7-1bd8009ae12c)
 
